@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: wheat;
+}
+
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
